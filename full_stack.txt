@@ -2,3 +2,5 @@ HTML and CSS
 java script
 boot strap
 html5 and css3
+jquery
+application development on API
